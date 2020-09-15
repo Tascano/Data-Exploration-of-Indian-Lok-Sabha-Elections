@@ -1,4 +1,4 @@
-# Data-Exploration-of-Indian-Lok-Sabha-Elections691_ds_dataexploration
+# Data-Exploration-of-Indian-Lok-Sabha-Elections
  Assignment 1 for UMBC's Fall 2020 course CMSC 691 - Data Science under Prof. Tim Oates.
 
 Dataset used: Indian Candidates for General Election 2019 @(https://www.kaggle.com/prakrutchauhan/indian-candidates-for-general-election-2019)
