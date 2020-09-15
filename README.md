@@ -3,10 +3,13 @@
 
 Dataset used: Indian Candidates for General Election 2019 @(https://www.kaggle.com/prakrutchauhan/indian-candidates-for-general-election-2019)
  
-*In a step-by-step format I have explored the dataset in-depth starting with explaining what the columns are and understanding each column.
-*I performed cleaning: understanding why data may be incorrect or missing and applying corrective actions.
-*I then proceeded to create visualisations and using them provided analysis of relationship between various variable/columns.
-*Lastly, I picked one variable to be a dependent variable, and two others to be predictor variables and generated a 2-D plot to show whether the predictor variables provide information (and what information) about the the dependent variable. And then explained why I think they do or do not.
+In a step-by-step format I have explored the dataset in-depth starting with explaining what the columns are and understanding each column.
+
+I performed cleaning: understanding why data may be incorrect or missing and applying corrective actions.
+
+I then proceeded to create visualisations and using them provided analysis of relationship between various variable/columns.
+
+Lastly, I picked one variable to be a dependent variable, and two others to be predictor variables and generated a 2-D plot to show whether the predictor variables provide information (and what information) about the the dependent variable. And then explained why I think they do or do not.
 
 Assignment:
 
